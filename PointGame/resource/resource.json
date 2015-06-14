@@ -1,0 +1,11 @@
+ {
+   "resources":
+   [
+	 {"name":"card","type":"sheet","url":"assets/card.json"}
+   ],
+
+   "groups":
+   [
+	 {"name":"preload","keys":"card"}
+   ]
+ }
